@@ -1,1 +1,1 @@
-I wrote custome methods for zooming in and out using the mouse (thanks GLUT) and keyboard. Most code in this repo was just proof of concept stuff for future projects that reside locally till I deem them appropriate.
+Old Open GL programs.
